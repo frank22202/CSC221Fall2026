@@ -1,0 +1,6 @@
+print('This is John\'s car', end=' ')
+print("This is John's car")
+print('This is "John"s car')
+print("This is", " a test")
+print('****' * 10)
+print('________' * 10)
