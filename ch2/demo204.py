@@ -1,0 +1,8 @@
+print('\U0001f600')
+print('\U0001f601')
+print('\U0001f602')
+print(bin(65))
+print(hex(61))
+print(oct(61))
+print(3, 'test', sep='abc', end='')
+print(3, 'test', sep='abc', end='')
