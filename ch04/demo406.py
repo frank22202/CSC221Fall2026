@@ -1,0 +1,5 @@
+print('\U0001F600')
+print(int('0o276', 8))
+print(int('0b1010111', 2))
+print(int('1F600', 16))
+print(chr(128512))
