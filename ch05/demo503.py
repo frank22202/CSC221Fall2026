@@ -7,13 +7,15 @@ print(id(scores))
 print(id(scores1))
 print(id(scores1) - id(scores))
 
-print(scores[4][2])
-print(scores[1:4])
-print(scores[::2])
-scores2 = scores[::]
-
-scores.append(88)
-scores.insert(3, 99)
-scores.remove(97.5)
-scores.pop(2)
-print(scores)
+print(scores[::-1])
+# print(scores[4][2])
+# print(scores[1:4])
+# print(scores[::2])
+# scores2 = scores[::]
+#
+# scores.append(88)
+# scores.insert(3, 99)
+# scores.remove(97.5)
+# scores.pop(2)
+# del scores[1]
+# print(scores)
