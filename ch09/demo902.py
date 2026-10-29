@@ -1,0 +1,7 @@
+password = input('Enter password')
+print(len(password) >= 16)
+print(password.isalpha())
+print(password.isdecimal())
+print(password.isalnum())
+print(password.replace('ab', '123'))
+print('password' in password)
